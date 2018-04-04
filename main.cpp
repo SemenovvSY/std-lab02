@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//Учебная программа//
 int main()
 {
 int a, b;
